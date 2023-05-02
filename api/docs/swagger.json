@@ -1,0 +1,9 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "This is a sample Auth demo.",
+        "termsOfService": "https://Doston.me",
+        "contact": {}
+    },
+    "paths": {}
+}
